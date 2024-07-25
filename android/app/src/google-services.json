@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338952297",
+    "project_id": "projeto-pdm-cce72",
+    "storage_bucket": "projeto-pdm-cce72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338952297:android:6bef239260df4cd41fe2f8",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzEoV1NPiH0KubHItI5b7xbPWe-EAepU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
